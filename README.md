@@ -2,7 +2,7 @@
 
 [Source Han Serif](http://adobe.ly/SourceHanSerif) is an open source Pan-CJK typeface.
 
-It's a awsome work by Google and Adobe.
+It's a awesome work by Google and Adobe.
 
 Considering that TTF format is easier to building Web Fonts. So this repo was born.
 
